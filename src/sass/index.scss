@@ -1,0 +1,14 @@
+@import "grid";
+@import "base";
+@import "style";
+@import "reponsive";
+@import "./auth/login";
+@import "./layout-admin/main-layout.scss";
+@import "./user/home.scss";
+@import "user/detail-product.scss";
+.fallback-loading {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,107 @@
+.product-details {
+}
+.product-details .product-details-img {
+}
+.product-details .product-details-img img {
+  border-radius: 5%;
+}
+.product-details .product-details-img .product-details-img-view {
+  // background-image: url("../../../public/asset/img/product1.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 20px;
+}
+.product-details .product-details-img .product-details-img-view img {
+  width: 100%;
+}
+.product-details .product-details-img .product-details-select {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+.product-details
+  .product-details-img
+  .product-details-select
+  .product-details-option {
+}
+.product-details
+  .product-details-img
+  .product-details-select
+  .product-details-option
+  img {
+  width: 100%;
+}
+.product-details-info {
+}
+.product-details-info .product-details-info-title {
+  font-size: 30px;
+  font-weight: 600;
+}
+.product-details-info .product-details-info-price {
+  color: orangered;
+  font-size: 23px;
+  margin-top: 15px;
+}
+.product-details-info .product-details-info-reviews {
+  list-style: none;
+  padding: 0px;
+}
+.product-details-info .product-details-info-review {
+  font-size: 18px;
+  padding: 5px 0px;
+}
+.product-details-info .product-details-info-buy {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.product-details-info .product-details-info-buy input {
+  height: 35px;
+  width: 50px;
+  text-align: center;
+}
+.product-details-info .product-details-info-buy button {
+  border: none;
+  outline: none;
+  height: 40px;
+  width: 160px;
+  background-color: orangered;
+  border-radius: 5px;
+  color: #fff;
+}
+.product-details-info .type {
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+  border-top: 1px solid #0000003b;
+  padding-top: 20px;
+}
+.product-details-info .type span {
+  font-size: 17px;
+  color: #00000091;
+  padding: 5px 0px;
+}
+.product-details-additional {
+}
+.product-details-additional .product-details-buttons {
+  display: flex;
+  justify-content: center;
+  height: 50px;
+  align-items: center;
+  border-top: 1px solid #0000003b;
+  margin-top: 30px;
+}
+.product-details-additional .product-details-button {
+  padding: 5px 10px;
+  color: #00000080;
+}
+.product-details-additional .product-details-button.action {
+  border: 2px solid #4db7b3;
+  border-radius: 20px;
+  color: #4db7b3;
+}
+.product-details-additional .product-details-description {
+}
+.product-details-additional .product-details-description-additional {
+}
